@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Watching Avalon Interactive","Watching General"];
 
 
 let currentIndex = 0;
